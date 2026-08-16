@@ -13,6 +13,6 @@
 # this if I can figure out how to configure it properly.
 
 # renovate: datasource=go depName=golang.org/x/pkgsite versioning=semver-coerced
-version='v0.0.0-20220921205104-d06df0691bf0'
+version='v0.4.0'
 
 echo "$version"
